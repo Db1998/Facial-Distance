@@ -1,6 +1,7 @@
 # Simultaneous Face tracking and Distance measurement using OpenCV library in Python
 
 Implemented my idea of measuring the facial distance using only a single camera, thereby eliminating the requirement for any proximity sensor or extra camera, with the OpenCV library in Python.
+![](Screenshot%20(33).png)
 ## OpenCV
 OpenCV is Computer Vision library of programming functions mainly aimed at real-time computer vision.
 ## Focal length
